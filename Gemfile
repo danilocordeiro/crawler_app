@@ -9,7 +9,7 @@ gem 'jquery-rails'
 gem 'font_awesome5_rails'
 gem 'simple_form'
 
-gem 'nokogiri', '~> 1.6', '>= 1.6.8'
+gem 'nokogiri', '~> 1.11'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
